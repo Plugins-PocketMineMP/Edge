@@ -1,0 +1,10 @@
+name: Edge
+author: alvin0319
+main: me.alvin0319.edge.Main
+version: 1.0.0
+api: 1.0.0
+load: POSTWORLD
+description: Show info in front of you!
+
+softdepend:
+  - EconomyAPI
