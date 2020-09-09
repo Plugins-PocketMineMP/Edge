@@ -7,7 +7,8 @@ You can change info's text by your plugin.
 
 ```java
 import cn.nukkit.Player;
-import cn.nukkit.plugin.PluginBase;import me.alvin0319.edge.edge.EdgeReplacer;
+import cn.nukkit.plugin.PluginBase;
+import me.alvin0319.edge.edge.EdgeReplacer;
 
 class MyCustomEdgeReplacer implements EdgeReplacer{
 
@@ -23,3 +24,6 @@ class Main extends PluginBase{
     }
 }
 ```
+
+# ScreenShot
+![](https://raw.githubusercontent.com/alvin0319/Edge/master/images/image.png)
